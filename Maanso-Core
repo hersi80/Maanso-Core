@@ -1,0 +1,31 @@
+# Roadmap
+
+## v0.1 — The math (THIS REPO, now)
+- [x] Somali syllable counter
+- [x] Gabay meter rules as data (DRAFT)
+- [x] `analyze()` API
+- [x] Tests
+
+## v0.2 — Validation + web demo
+- [ ] Validate gabay with poets/linguists (community)
+- [ ] Add geeraar, jiifto, buraanbur
+- [ ] Simple web demo (React) that pastes a line and shows the balance
+
+## v0.3 — Mixing dashboard
+- [ ] Full studio UI: levels, EQ, effects, master
+- [ ] Plug the prosody math in as a "craft meter" panel
+
+## v0.4 — Music generation
+- [ ] Wrap an existing open music-gen API (not built from scratch)
+- [ ] Lyrics -> song, guided by prosody
+
+## v0.5 — Video generation
+- [ ] Auto music video from a track (wrap an existing video-gen API)
+
+## v0.6 — Social + the weekly gool
+- [ ] Social publishing links
+- [ ] Weekly listening gathering: fair-sample public vote, weekly reset
+- [ ] Monthly top 10 assembled from weekly crowns — platform counts, never chooses
+
+## The principle that never changes
+No signal that can be bought is allowed to decide who gets heard.
